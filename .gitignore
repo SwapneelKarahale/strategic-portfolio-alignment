@@ -21,3 +21,6 @@ frontend/.env
 # Test artifacts
 backend/.coverage
 backend/htmlcov/
+
+# Personal notes (not for the repo)
+INTERVIEW_PREP.md
