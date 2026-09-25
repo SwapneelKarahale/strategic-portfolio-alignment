@@ -22,5 +22,3 @@ frontend/.env
 backend/.coverage
 backend/htmlcov/
 
-# Personal notes (not for the repo)
-INTERVIEW_PREP.md
